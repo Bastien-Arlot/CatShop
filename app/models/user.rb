@@ -6,5 +6,5 @@ class User < ApplicationRecord
 
   has_one :cart
   has_many :orders
-        
+  #should we add email confirmation and a password confirmation?
 end
