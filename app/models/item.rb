@@ -10,3 +10,4 @@ class Item < ApplicationRecord
   validates :description, presence: true, length: {minimum: 30}
   # un prix devenant obligatoire, de type chiffre
   validates :price, presence: true, numericality: {only_integer: false}
+end
