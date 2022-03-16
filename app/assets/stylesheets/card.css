@@ -83,3 +83,8 @@
         box-shadow: 0 0 0 0 rgba(90, 153, 212, 0);
     }
 } 
+
+#description {
+    text-align: justify;
+}
+
