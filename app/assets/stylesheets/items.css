@@ -14,7 +14,9 @@
 }
 
 .btn-updateitem {
-    background-color: var(--prim)!important ;
+
+    background-color: var(--prim)!important;
+
     border-color: turquoise!important;
     color: turquoise!important;
 }
@@ -52,3 +54,4 @@
     border-color: turquoise!important;
     color: var(--prim)!important;
 }
+
